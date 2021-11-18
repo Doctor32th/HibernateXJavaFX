@@ -1,0 +1,6 @@
+com\mycompany\Hibernate_FX\PrimaryController.class
+com\mycompany\Hibernate_FX\HibernateUtil.class
+module-info.class
+com\mycompany\Hibernate_FX\SecondaryController.class
+models\User.class
+com\mycompany\Hibernate_FX\App.class
